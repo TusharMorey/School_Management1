@@ -4,10 +4,10 @@
 
 ## Contents
 
-.[Students]_
+Students
 
-.[Teachers]_
+Teachers
 
-.[Subjects]_
+Subjects
 
-.[Git Commands]_
+Git Commands
