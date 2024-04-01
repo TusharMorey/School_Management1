@@ -2,7 +2,7 @@
 
 
 
-##contents
+## Contents
 .[Students]
 .[Teachers]
 .[Subjects]
