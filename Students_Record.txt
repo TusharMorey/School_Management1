@@ -1,0 +1,5 @@
+SAMPLE RECORD 
+SRNO 	NAME 		BRANCH
+1) 	Tushar		SCIENCE
+2) 	Ram 		COMMERCE
+3) 	Pathan 		ARTS
