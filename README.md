@@ -3,7 +3,11 @@
 
 
 ## Contents
-.[Students]
-.[Teachers]
-.[Subjects]
-.[Git Commands]
+
+.[Students]_
+
+.[Teachers]_
+
+.[Subjects]_
+
+.[Git Commands]_
