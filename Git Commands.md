@@ -18,6 +18,7 @@ A list of my commonly used Git commands_
 | ------- | ----------- |
 | `git status` | Check status |
 | `git add [file-name.txt]` | Add a file to the staging area |
+| `git add . ` | Adds all files to staging area|
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
 
@@ -31,7 +32,6 @@ A list of my commonly used Git commands_
 | `git checkout -b [branch name]` | Create a new branch and switch to it |
 | `git checkout [branch name]` | Switch to a branch |
 | `git checkout -` | Switch to the branch last checked out |
-| `git checkout -- [file-name.txt]` | Discard changes to a file |
 | `git merge [branch name]` | Merge a branch into the active branch |
 | `git merge [source branch] [target branch]` | Merge a branch into a target branch |
 
